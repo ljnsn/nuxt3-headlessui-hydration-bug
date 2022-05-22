@@ -1,3 +1,11 @@
+# Reproduction repo for HeadlessUI Dialog bug
+
+Issue: https://github.com/tailwindlabs/headlessui/issues/1485
+
+Screenshot:
+
+![Bug](./bug.png)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
