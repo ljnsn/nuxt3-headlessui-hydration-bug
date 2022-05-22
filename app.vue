@@ -1,8 +1,8 @@
 <template>
   <div>
     <NuxtWelcome />
-    <Dialog :open="isOpen" @close="toggleModal"> </Dialog>
   </div>
+  <Dialog :open="isOpen" @close="toggleModal"> </Dialog>
 </template>
 
 <script setup lang="ts">
